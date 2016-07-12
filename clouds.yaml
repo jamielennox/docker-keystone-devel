@@ -1,0 +1,12 @@
+clouds:
+  admin:
+    auth:
+      auth_url: http://127.0.0.1:5000/
+      username: admin
+      user_domain_id: default
+      password: password
+      project_name: admin
+      project_domain_id: default
+    auth_type: password
+    identity_api_version: '3'
+    region_name: RegionOne
